@@ -1,0 +1,11 @@
+.add-product-field{
+    border: none;
+    width: fit-content;
+    background-color: rgba(5, 5, 50, 0.507);
+}
+.input-style{
+    border: none;
+    background-color: lightgray;
+    border-radius: 10px;
+    padding: 5px;
+}
